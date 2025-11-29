@@ -1,0 +1,24 @@
+{
+  "id": "20251129-A02C-40C5-BC3A-D0730091065F",
+  "title": "Trump signs executive order undermining all women under the guise of protecting women's rights",
+  "author": {
+    "name": "Lady Liberty",
+    "url": "https://stateofourunion.com" // could use this to link to individual entries if the template allows
+  },
+  "publishedDate": "2025-11-29T17:37:00Z",
+  "lastModifiedDate": "2025-11-29T17:37:00Z",
+  "keywords": ["executiveorder"], // Could use this to track related stories
+  "sections": [
+    {
+      "type": "list", // Use this list for the citations/URLS on each entry
+      "items": [
+        "https://www.theguardian.com/commentisfree/2025/jan/25/trump-executive-order-sex",
+        "https://wbawbf.org/wba/news/womens-bar-association-response-defending-women-gender-ideology-extremism-and-restoring",
+        "https://carnegieendowment.org/emissary/2025/02/trump-gender-ideology-global-trend-women-lgbtq-rights?lang=en",
+        "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/"
+      ]
+    }
+  ],
+  "tags": ["lgbtqplus"], // Use this for the section keywords
+  "url": "https://stateofourunion.com" // could use this to link to individual entries if the template allows
+}
