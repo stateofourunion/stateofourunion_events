@@ -1,0 +1,50 @@
+{
+  "id": "unique-article-identifier-123",
+  "title": "A Thing Happened",
+  "author": {
+    "name": "Lady Liberty",
+    "url": "https://stateofourunion.com"
+  },
+  "publishedDate": "2025-11-29T10:30:00Z",
+  "lastModifiedDate": "2025-11-29T11:00:00Z",
+  "description": "A brief summary or description of the article content.", // Probably don't need this
+  "keywords": ["cryptodinner", "donors"], // Could use this to track related stories
+  "imageUrl": "https://stateofourunion.com/media/squarebanner2.webp", // Probably don't need this
+  "imageAltText": "an illustrated history of th 47th administration of the United States THE STATE OF OUR UNION", // Probably don't need this
+  "sections": [
+    // Probably don't need any of this
+    {
+      "type": "heading",
+      "content": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "content": "This is the first paragraph of the article, introducing the topic."
+    },
+    {
+      "type": "image",
+      "src": "https://example.com/images/section-image.jpg",
+      "alt": "Image related to the section content"
+    },
+    {
+      "type": "paragraph",
+      "content": "Another paragraph expanding on the topic, providing more details and information."
+    },
+    {
+      "type": "quote",
+      "content": "A significant quote from a source or an expert.",
+      "source": "Source of the quote"
+    },
+    {
+      "type": "list", // Use this list for the citations/URLS on each entry
+      "items": [
+        "source_url_01",
+        "source_url_02",
+        "source_url_03"
+      ]
+    }
+  ],
+  "category": "Democracy",
+  "tags": ["dissent", "corruption"], // Use this for the section keywords
+  "url": "https://stateofourunion.com" // could use this to link to individual entries if the template allows
+}
